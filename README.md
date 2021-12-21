@@ -48,7 +48,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Tunneler på fylkesveg. Lengde                     |                           13 | Under arbeid                     | Kostra 13 og 14 - tunnell fylkesveg.xlsx |
 | Tunneler på fylkesveg. Antall 					          |                           14 | Under arbeid (samme som  13)     |  Kostra 13 og 14 - tunnell fylkesveg.xlsx |
 | Tunneler på fylkesveg med lengde 500 m og over 	  |                           15 | Under arbeid                     | Kostra 15 - tunnell fylkesveg lengre enn 500m.xlsx |
-| Tunneler på fylkesveg med høydebegrensning <4m    |                           16 | Under arbeid                     | Kostra 16 - tunnell u 4m.xlsx    |
+| Tunneler på fylkesveg med høydebegrensning <4m    |                           16 | OK                               | Kostra 16 - tunnell u 4m.xlsx    |
 | Vegbruer på fylkesveg 							              |                           17 | Under arbeid                     | Kostra 17 - Bruer fylkesveg.xlsx |
 | Bruer på fylkesvei med tillatt aksellast <10 tonn |                           18 | Under arbeid                     | Kostra 18 - Bruer under 10t.xlsx |
 | Bruer på fylkesvei med høydebegrensning <4m       |                           19 | Under arbeid                     | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
