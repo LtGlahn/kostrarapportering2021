@@ -10,13 +10,13 @@
 
 Årets leveranse publiseres på github på adressen [https://github.com/LtGlahn/kostrarapportering2021](https://github.com/LtGlahn/kostrarapportering2021). På github kan du lettvint laste ned data med den grønne knappen _"Code" -> "Download ZIP"_ , plassert oppe til høyre.
 
-Eller bruk [denne lenken](https://github.com/LtGlahn/kostrarapportering2021/archive/main.zip) 
+Eller bruk [denne lenken](https://github.com/LtGlahn/kostrarapportering2021/archive/refs/heads/master.zip) 
 
 
 ![Nedlasting, hele arkivet](./bilder/lastnedrepos.png)
 
 Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du navigerer deg fram til riktig rapport, klikker på den og så kan du laste ned: 
-  * Gå til mappen [kostraleveranse2021](https://github.com/LtGlahn/kostrarapportering2021/tree/main/kostraleveranse2021)
+  * Gå til mappen [kostraleveranse2021](https://github.com/LtGlahn/kostrarapportering2021/tree/master/kostraleveranse2021)
   * Klikk på en fil, for eksempel [Kostra 16 - tunnel u 4m.xlsx](https://github.com/LtGlahn/kostrarapportering2021/blob/master/kostraleveranse2021/Kostra%2016%20-%20tunnell%20u%204m.xlsx)
   * Klikk på _Download_ - knappen 
 
