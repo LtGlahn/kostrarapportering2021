@@ -17,7 +17,7 @@ Eller bruk [denne lenken](https://github.com/LtGlahn/kostrarapportering2020/arch
 
 Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du navigerer deg fram til riktig rapport, klikker på den og så kan du laste ned: 
   * Gå til mappen [kostraleveranse2021](https://github.com/LtGlahn/kostrarapportering2020/tree/main/kostraleveranse2021)
-  * Klikk på en fil, for eksempel [Kostra 16 - tunnel u 4m.xlsx](https://github.com/LtGlahn/kostrarapportering2020/blob/main/kostraleveranse2020/Kostra%2016%20-%20tunnell%20u%204m.xlsx)
+  * Klikk på en fil, for eksempel [Kostra 16 - tunnel u 4m.xlsx](https://github.com/LtGlahn/kostrarapportering2021/blob/master/kostraleveranse2021/Kostra%2016%20-%20tunnell%20u%204m.xlsx)
   * Klikk på _Download_ - knappen 
 
 ![Nedlasting, enkelt fil](./bilder/lastnedfil.png)  
