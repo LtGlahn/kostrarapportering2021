@@ -34,7 +34,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Navn formell bestilling                           |  Nummerering                 | Status 2021                      | Filnavn	                                                          |
 |---------------------------------------------------|------------------------------|----------------------------------|-------------------------------------------------------------------|
 | Riks-, fylkes-, kommune-, privat- og skogsbilveg 	|                            1 | OK                               | Kostra 01 - Vegnett hele landet.xlsx			|
-|                                                   |                            2 | Under arbeid                     | Kostra 02 - Fylkesveg med motorveg og motortrafikkveg.xlsx |
+|                                                   |                            2 | OK                               | Kostra 02 - Fylkesveg med motorveg og motortrafikkveg.xlsx |
 | Fylkesveg uten fast dekke 						            |                            3 | Under arbeid                     | Kostra 03 - Fylkesveg uten fast dekke.XLSX |
 | Fylkesveg med 4 felt                              |                            4 | Under arbeid                     | Kostra 04 - Fylkesveg med 4 felt.XLSX |
 | Fylkesvei med tillatt aksellast <10 tonn 			    |                            5 | Under arbeid                     | Kostra 05 - Fylkesveg aksellast u 10t.xlsx |
