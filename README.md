@@ -35,11 +35,11 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 |---------------------------------------------------|------------------------------|----------------------------------|-------------------------------------------------------------------|
 | Riks-, fylkes-, kommune-, privat- og skogsbilveg 	|                            1 | OK                               | Kostra 01 - Vegnett hele landet.xlsx			|
 |                                                   |                            2 | OK                               | Kostra 02 - Fylkesveg med motorveg og motortrafikkveg.xlsx |
-| Fylkesveg uten fast dekke 						            |                            3 | Under arbeid                     | Kostra 03 - Fylkesveg uten fast dekke.XLSX |
-| Fylkesveg med 4 felt                              |                            4 | Under arbeid                     | Kostra 04 - Fylkesveg med 4 felt.XLSX |
-| Fylkesvei med tillatt aksellast <10 tonn 			    |                            5 | Under arbeid                     | Kostra 05 - Fylkesveg aksellast u 10t.xlsx |
-| Fylkesvei med begrensning på totalvekt <50 tonn 	|                            6 | Under arbeid                     | Kostra 06 - Fylkesveg totalvekt u 50t.xlsx |
-| Fylkesveg med fartsgrense 50 eller lavere 		    |   	  	                   7 | Under arbeid                     | Kostra 07 - Fylkesveg maks 50kmt.xlsx | 
+| Fylkesveg uten fast dekke 						            |                            3 | OK                               | Kostra 03 - Fylkesveg uten fast dekke.XLSX |
+| Fylkesveg med 4 felt                              |                            4 | OK                               | Kostra 04 - Fylkesveg med 4 felt.XLSX |
+| Fylkesvei med tillatt aksellast <10 tonn 			    |                            5 | OK                               | Kostra 05 - Fylkesveg aksellast u 10t.xlsx |
+| Fylkesvei med begrensning på totalvekt <50 tonn 	|                            6 | OK                               | Kostra 06 - Fylkesveg totalvekt u 50t.xlsx |
+| Fylkesveg med fartsgrense 50 eller lavere 		    |   	  	                   7 | OK                               | Kostra 07 - Fylkesveg maks 50kmt.xlsx | 
 | Fylkesvei med begrensning på kj.t.lengde <19,5m 	|   	  	                   8 | Under arbeid                     | Kostra 08 - maks lengde u 19m.xlsx |
 | Underganger på fylkesveg med høydebegrensning lavere enn 4 m 	|                9 | Under arbeid                     | Kostra 09 - Undergang lavere enn 4m.xlsx |
 | Fylkesveg med dårlig eller svært dårlig dekketilstand |                       10 | -                                |	-                                                                 |
@@ -82,6 +82,8 @@ Her finner vi lengden av objekttypen _Vegdekke (241)_ langs fylkesveg med egensk
 ### Kostra 04 - Fylkesveg med 4 felt
 
 Her teller vi lengden av vegnett som har fire eller flere felt. Vi regner ikke med kjørefelt av typene sykkelfelt, fergeoppstillingsplass og ekstra felt ved bomstasjoner. Vi teller heller ikke med kryssdeler, sideanlegg og konnekteringslenker, og heller ikke _adskilte løp = Mot_. 
+
+Denne rapporten er laget med applikasjonen ["NVDB rapporter for KOSTRA"](https://nvdb-kostra.atlas.vegvesen.no/ ) med [disse valgene](https://raw.githubusercontent.com/LtGlahn/kostrarapportering2021/master/bilder/lastned04-firefeltsfylkesveg.png) 
 
 ### Kostra 05 Fylkesveg med maks aksellast under 10 tonn
 
