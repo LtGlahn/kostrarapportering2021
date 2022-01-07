@@ -40,7 +40,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Fylkesvei med tillatt aksellast <10 tonn 			    |                            5 | OK                               | Kostra 05 - Fylkesveg aksellast u 10t.xlsx |
 | Fylkesvei med begrensning på totalvekt <50 tonn 	|                            6 | OK                               | Kostra 06 - Fylkesveg totalvekt u 50t.xlsx |
 | Fylkesveg med fartsgrense 50 eller lavere 		    |   	  	                   7 | OK                               | Kostra 07 - Fylkesveg maks 50kmt.xlsx | 
-| Fylkesvei med begrensning på kj.t.lengde <19,5m 	|   	  	                   8 | Under arbeid                     | Kostra 08 - maks lengde u 19m.xlsx |
+| Fylkesvei med begrensning på kj.t.lengde <19,5m 	|   	  	                   8 | OK                               | Kostra 08 - maks lengde u 19m.xlsx |
 | Underganger på fylkesveg med høydebegrensning lavere enn 4 m 	|                9 | Under arbeid                     | Kostra 09 - Undergang lavere enn 4m.xlsx |
 | Fylkesveg med dårlig eller svært dårlig dekketilstand |                       10 | -                                |	-                                                                 |
 | Fylkesveg uten fast dekke >5000 ÅDT 				      |                           11 | Under arbeid                     | Kostra 11 - Fylkesveg uten fast dekke AADT over 5000.xlsx         |
