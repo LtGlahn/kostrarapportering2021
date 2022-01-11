@@ -41,17 +41,17 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Fylkesvei med begrensning på totalvekt <50 tonn 	|                            6 | OK                               | Kostra 06 - Fylkesveg totalvekt u 50t.xlsx |
 | Fylkesveg med fartsgrense 50 eller lavere 		    |   	  	                   7 | OK                               | Kostra 07 - Fylkesveg maks 50kmt.xlsx | 
 | Fylkesvei med begrensning på kj.t.lengde <19,5m 	|   	  	                   8 | OK                               | Kostra 08 - maks lengde u 19m.xlsx |
-| Underganger på fylkesveg med høydebegrensning lavere enn 4 m 	|                9 | Under arbeid                     | Kostra 09 - Undergang lavere enn 4m.xlsx |
+| Underganger på fylkesveg med høydebegrensning lavere enn 4 m 	|                9 | OK                              | Kostra 09 - Undergang lavere enn 4m.xlsx |
 | Fylkesveg med dårlig eller svært dårlig dekketilstand |                       10 | -                                |	-                                                                 |
-| Fylkesveg uten fast dekke >5000 ÅDT 				      |                           11 | Under arbeid                     | Kostra 11 - Fylkesveg uten fast dekke AADT over 5000.xlsx         |
-| Fylkesveg i alt >5000 ÅDT 						            |                           12 | Under arbeid                     | Kostra 12 - Fylkesveg AADT over 5000.xlsx |
-| Tunneler på fylkesveg. Lengde                     |                           13 | Under arbeid                     | Kostra 13 og 14 - tunnell fylkesveg.xlsx |
-| Tunneler på fylkesveg. Antall 					          |                           14 | Under arbeid (samme som  13)     |  Kostra 13 og 14 - tunnell fylkesveg.xlsx |
-| Tunneler på fylkesveg med lengde 500 m og over 	  |                           15 | Under arbeid                     | Kostra 15 - tunnell fylkesveg lengre enn 500m.xlsx |
+| Fylkesveg uten fast dekke >5000 ÅDT 				      |                           11 | OK                               | Kostra 11 - Fylkesveg uten fast dekke AADT over 5000.xlsx         |
+| Fylkesveg i alt >5000 ÅDT 						            |                           12 | OK                               | Kostra 12 - Fylkesveg AADT over 5000.xlsx |
+| Tunneler på fylkesveg. Lengde                     |                           13 | OK                               | Kostra 13 og 14 - tunnell fylkesveg.xlsx |
+| Tunneler på fylkesveg. Antall 					          |                           14 | OK           (samme som  13)     |  Kostra 13 og 14 - tunnell fylkesveg.xlsx |
+| Tunneler på fylkesveg med lengde 500 m og over 	  |                           15 | OK                               | Kostra 15 - tunnell fylkesveg lengre enn 500m.xlsx |
 | Tunneler på fylkesveg med høydebegrensning <4m    |                           16 | OK                               | Kostra 16 - tunnell u 4m.xlsx    |
-| Vegbruer på fylkesveg 							              |                           17 | Under arbeid                     | Kostra 17 - Bruer fylkesveg.xlsx |
-| Bruer på fylkesvei med tillatt aksellast <10 tonn |                           18 | Under arbeid                     | Kostra 18 - Bruer under 10t.xlsx |
-| Bruer på fylkesvei med høydebegrensning <4m       |                           19 | Under arbeid                     | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
+| Vegbruer på fylkesveg 							              |                           17 | OK                               | Kostra 17 - Bruer fylkesveg.xlsx |
+| Bruer på fylkesvei med tillatt aksellast <10 tonn |                           18 | OK                               | Kostra 18 - Bruer under 10t.xlsx |
+| Bruer på fylkesvei med høydebegrensning <4m       |                           19 | OK                               | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
 | Midtrekkverk på to og trefelts fylkesveger 		    |   		                    20 | Under arbeid                     | Kostra 20 - Midtrekkverk på to og trefelts Fv.xlsx |
 | Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | Under arbeid  (NB, kun Fv)       | Kostra 21 gang og sykkelveg.xlsx |
 | Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | Ikke sosi, men geojson           | Kostra 22 - sykkelveger_fylkesveg.zip |
