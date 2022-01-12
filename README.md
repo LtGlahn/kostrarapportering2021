@@ -56,7 +56,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | OK  (NB, kun Fv)                 | Kostra 21 gang og sykkelveg.xlsx |
 | Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | Ikke sosi, men geojson           | Kostra 22 - sykkelveger_fylkesveg.zip |
 | Forsterket midtoppmerking (rumlefelt), på fylkesveg                         | 23 | OK                               | Kostra 23 - Fylkesveg med forsterket midtoppmerking.xlsx |
-| Støyskjermer og voller langs fylkesvei 			      |                           24 | Under arbeid                     | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
+| Støyskjermer og voller langs fylkesvei 			      |                           24 | OK                               | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
 | Kollektivfelt langs fylkesveg 					          |                           25 | Under arbeid                     | Kostra 25 - Fylkesveg med kollektivfelt.xlsx |
 
 
