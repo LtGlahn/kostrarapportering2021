@@ -52,8 +52,8 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Vegbruer på fylkesveg 							              |                           17 | OK                               | Kostra 17 - Bruer fylkesveg.xlsx |
 | Bruer på fylkesvei med tillatt aksellast <10 tonn |                           18 | OK                               | Kostra 18 - Bruer under 10t.xlsx |
 | Bruer på fylkesvei med høydebegrensning <4m       |                           19 | OK                               | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
-| Midtrekkverk på to og trefelts fylkesveger 		    |   		                    20 | Under arbeid                     | Kostra 20 - Midtrekkverk på to og trefelts Fv.xlsx |
-| Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | Under arbeid  (NB, kun Fv)       | Kostra 21 gang og sykkelveg.xlsx |
+| Midtrekkverk på to og trefelts fylkesveger 		    |   		                    20 | OK                               | Kostra 20 - Midtrekkverk på to og trefelts Fv.xlsx |
+| Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | OK  (NB, kun Fv)                 | Kostra 21 gang og sykkelveg.xlsx |
 | Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | Ikke sosi, men geojson           | Kostra 22 - sykkelveger_fylkesveg.zip |
 | Forsterket midtoppmerking (rumlefelt), på fylkesveg                         | 23 | Under arbeid                     | Kostra 23 - Fylkesveg med forsterket midtoppmerking.xlsx |
 | Støyskjermer og voller langs fylkesvei 			      |                           24 | Under arbeid                     | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
