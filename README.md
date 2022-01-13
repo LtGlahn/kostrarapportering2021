@@ -3,8 +3,6 @@
 
 Årets KOSTRA-rapport fra Nasjonal vegdatabank (NVDB) benytter samme metodikk som i fjor [kostrarapportering 2020](https://github.com/LtGlahn/kostrarapportering2020)
 
-# To be written, UFERDIG
-
 # Nedlasting 
 
 
@@ -27,8 +25,6 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 
 Årets leveranse ligger i undermappen [`kostraleveranse2021`](https://github.com/LtGlahn/kostrarapportering2021/tree/main/kostraleveranse2021). Øvrige mapper inneholder kode og dokumentasjon. 
 
-
-# Årets versus fjorårets leveranse
 
 
 | Navn formell bestilling                           |  Nummerering                 | Status 2021                      | Filnavn	                                                          |
@@ -54,10 +50,10 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Bruer på fylkesvei med høydebegrensning <4m       |                           19 | OK                               | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
 | Midtrekkverk på to og trefelts fylkesveger 		    |   		                    20 | OK                               | Kostra 20 - Midtrekkverk på to og trefelts Fv.xlsx |
 | Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | OK  (NB, kun Fv)                 | Kostra 21 gang og sykkelveg.xlsx |
-| Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | Ikke sosi, men geojson           | Kostra 22 - sykkelveger_fylkesveg.zip |
+| Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | OK Ikke sosi, men geojson        | Kostra 22 - sykkelveger_fylkesveg.zip |
 | Forsterket midtoppmerking (rumlefelt), på fylkesveg                         | 23 | OK                               | Kostra 23 - Fylkesveg med forsterket midtoppmerking.xlsx |
 | Støyskjermer og voller langs fylkesvei 			      |                           24 | OK                               | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
-| Kollektivfelt langs fylkesveg 					          |                           25 | Under arbeid                     | Kostra 25 - Fylkesveg med kollektivfelt.xlsx |
+| Kollektivfelt langs fylkesveg 					          |                           25 | OK                               | Kostra 25 - Fylkesveg med kollektivfelt.xlsx |
 
 
 
