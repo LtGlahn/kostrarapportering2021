@@ -158,7 +158,7 @@ Her henter vi vegnett for vegkategorien "Fylkesveg" og  trafikantgruppe "G" (gå
 
 Dette er samme datagrunnlag som rapport 21, men i stedet for å oppsummere lengder per fylke så lagrer vi dataene på et GIS-vennlig format. Strengt tatt er vi forpliktet til å levere på SOSI-format for denen typen datautveksling. Dessverre er vi pga tidsnød ikke i stand til å løse gjenværende hindringer for lettvint produksjon av sosifiler med vegnett på det nye vegreferansesystemet. I stedet mener vi geojson er et greit alternativ. Vi kan også levere på andre formater - også sosi, gitt mere tid - bare si ifra.
 
-Den opprinnelige bestillingen er _"gang- og sykkelveger innenfor tettsteder med mer enn 5000 innbyggere"_. Ettersom tettsteder er et datasett som ajourholdes av SSB ser vi det som mest hensiktsmessig at SSB selv gjør analysen med å finne hvor stor del av gang- og sykkelvegene som er innafor disse tettstedene. Dette er en triviell geografisk analyse. Hvis dette ikke er tilfredsstillende så ta kontakt, så skal vi ordne det. I så fall må vi få oversendt ferske data for tettsteder, evt få avklart at vi skal bruke siste gjeldende (per 31.12.2019, så vidt vi ser). 
+Den opprinnelige bestillingen er _"gang- og sykkelveger innenfor tettsteder med mer enn 5000 innbyggere"_. Ettersom tettsteder er et datasett som ajourholdes av SSB ser vi det som mest hensiktsmessig at SSB selv gjør analysen med å finne hvor stor del av gang- og sykkelvegene som er innafor disse tettstedene. Dette er en triviell geografisk analyse. Hvis dette ikke er tilfredsstillende så ta kontakt, så skal vi ordne det. 
 
 ### Kostra 23 - Fylkesveg med forsterket midtoppmerking
 
