@@ -179,5 +179,5 @@ Vi ser at de eldre versjonene av Rapport nummer 25, _"Fylkesveg med kollektivfel
 
 Dette er en modifisering av datauttaket for motorveg og motortrafikkveg fylkesveger (rapport 02), men for alle veger. Underveis fant vi at det riktigste bildet er å ingnorere kryssdeler og ramper (fra før har vi filtrert ut _adskilte løp=MOT_ og sideanlegg). Bildet under viser fire ramper som da IKKE blir med i denne rapporten. 
 
-![ramper motorveg](../bilder/motorveg-ramper.png)
+![ramper motorveg](./bilder/motorveg-ramper.png)
 
