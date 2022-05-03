@@ -54,6 +54,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Forsterket midtoppmerking (rumlefelt), på fylkesveg                         | 23 | OK                               | Kostra 23 - Fylkesveg med forsterket midtoppmerking.xlsx |
 | Støyskjermer og voller langs fylkesvei 			      |                           24 | OK                               | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
 | Kollektivfelt langs fylkesveg 					          |                           25 | OK                               | Kostra 25 - Fylkesveg med kollektivfelt.xlsx |
+| Ekstrarapport motorveger (alle veger, ikke bare fylkesveg) 		|                           N/A | OK                   | EKSTRARAPPORT motorveger.xlsx |
 
 
 
@@ -173,4 +174,10 @@ Dette er telling av objekttypene _Skjerm (3)_ med  egenskapen _Bruksområde = St
 Her teller vi lengde av vegnettet for kjørende, slik som i rapporten Kostra 01 vegnett, men i denne rapporten teller vi vi kun med de strekningene der det finnes kollektivfelt.  
 
 Vi ser at de eldre versjonene av Rapport nummer 25, _"Fylkesveg med kollektivfelt"_, så er det telt to ganger veglengden der kollektivfelt finnes på begge sider av vegen. Vi er usikre på hva som foretrekkes, og oppgir derfor begge deler, henholdsvis  _"Lengde en retning (m)"_ hvor vi kun teller hvorvidt det finnes kollektivfelt på strekningen, likegyldig hvor mange, og kolonnen _"Lengde per kollektivfelt (m)"_, hvor vi teller dobbelt opp hvis det finnes kollektivfelt på begge sider av vegen (dvs for begge retninger). 
+
+### Ekstrarapport motorveger 
+
+Dette er en modifisering av datauttaket for motorveg og motortrafikkveg fylkesveger (rapport 02), men for alle veger. Underveis fant vi at det riktigste bildet er å ingnorere kryssdeler og ramper (fra før har vi filtrert ut _adskilte løp=MOT_ og sideanlegg). Bildet under viser fire ramper som da IKKE blir med i denne rapporten. 
+
+![ramper motorveg](../bilder/motorveg-ramper.png)
 
