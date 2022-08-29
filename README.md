@@ -50,6 +50,7 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
 | Bruer på fylkesvei med høydebegrensning <4m       |                           19 | OK                               | Kostra 19 - Bruer hoyde mindre enn 4m.xlsx |
 | Midtrekkverk på to og trefelts fylkesveger 		    |   		                    20 | OK                               | Kostra 20 - Midtrekkverk på to og trefelts Fv.xlsx |
 | Gang- og sykkelveger (statlig eller fylkeskommunalt ansvar) langs fylkesveg | 21 | OK  (NB, kun Fv)                 | Kostra 21 gang og sykkelveg.xlsx |
+| Gang- og sykkelveger, alle vegkategorier          |                              | OK                               | Kostra 21 EKSTRA ALLE gang og sykkelveg.xlsx |
 | Gang- og sykkelveg i byer/tettsteder >5000 innbyggere (SOSI format)         | 22 | OK Ikke sosi, men geojson        | Kostra 22 - sykkelveger_fylkesveg.zip |
 | Forsterket midtoppmerking (rumlefelt), på fylkesveg                         | 23 | OK                               | Kostra 23 - Fylkesveg med forsterket midtoppmerking.xlsx |
 | Støyskjermer og voller langs fylkesvei 			      |                           24 | OK                               | Kostra 24 - Fylkesveg med stoyskjerm og voll.xlsx |
@@ -154,6 +155,11 @@ Videre er det en utfordring med _overlapp_: Det kan være satt opp mange rekkver
 ### Kostra 21 gang og sykkelveg for fylkesveger
 
 Her henter vi vegnett for vegkategorien "Fylkesveg" og  trafikantgruppe "G" (gående og syklende). 
+
+### Kostra 21 EKSTRA gang og sykkelveg for alle vegkategorier
+
+Dette er ikke en del av KOSTRA-rapporteringen, men lengde vegnett for gående og syklende er etterspurt for alle vegkategorier. Så her henter vi vegnett for trafikantgruppe "G" (gående og syklende), alle vegkategorier. 
+
 
 ### Kostra 22 Gang og sykkelveg langs fylkesveg i tettsteder med mer enn 5000 innbyggere
 
