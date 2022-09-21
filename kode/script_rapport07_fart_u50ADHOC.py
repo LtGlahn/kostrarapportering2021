@@ -23,6 +23,8 @@ egenskapfilter = 'egenskap(2021)=2726 OR egenskap(2021)=2728 OR egenskap(2021)=1
 
 
 mittfilter = lastnedvegnett.kostraFagdataFilter( mittfilter={} )
+mittfilter.pop( 'tidspunkt', None ) # ADHOC 
+
 mittfilter['vegsystemreferanse'] = 'Fv'
 mittfilter['egenskap'] = egenskapfilter
 mittfilter['adskiltelop'] = 'med,nei'
@@ -45,7 +47,7 @@ lengde = lengde[[ 'fylke', 'Veg', 'Lengde (m)']]
 telling = myGdf.groupby( ['fylke' ]).agg( { 'segmentlengde' : 'sum'} ).astype(int).reset_index()  
 telling.rename( columns={ 'segmentlengde' : 'Lengde (m)' }, inplace=True)
 
-skrivdataframe.skrivdf2xlsx( telling, '../kostraleveranse2021/Kostra 07 - Fylkesveg maks 50kmt.xlsx', sheet_name='Fv 50km eller lavere', metadata=mittfilter)
+skrivdataframe.skrivdf2xlsx( telling, '../kostraleveranse2021/Kostra 07 - Fylkesveg maks 50kmtADHOC.xlsx', sheet_name='Fv 50km eller lavere', metadata=mittfilter)
 
 tidsbruk = datetime.now() - t0 
 print( f"Tidsbruk {tidsbruk} ")
