@@ -20,6 +20,9 @@ mittfilter = { 'tidspunkt'              : '2021-12-16',
                 'typeveg'               : 'kanalisertVeg,enkelBilveg,rampe,rundkjøring,gangOgSykkelveg,sykkelveg,gangveg,gatetun'
                 }
 
+
+# Hm, kan ikke ha med alle de snåle filtrene! 
+
 myGdf = nvdbgeotricks.vegnett2gdf( mittfilter=mittfilter )
 
 statistikk = myGdf.groupby( ['fylke'] ).agg( { 'lengde' : 'sum' } ).reset_index()
